@@ -4,7 +4,7 @@
 ---
 
 ## TABLE OF CONTENTS
-1. [C# Questions (25 per topic)](#csharp-questions)
+1. [C# Questions (25 per topic)](#c-questions-csharp-questions)
 2. [.NET Questions (15 per topic)](#dotnet-questions)
 3. [SQL Questions (20 per topic)](#sql-questions)
 4. [Azure Questions (30 per topic)](#azure-questions)
