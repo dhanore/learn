@@ -1,5 +1,4 @@
 # Azure Integration Senior Developer & Architect Interview Q&A Guide
-## For 5-15 Years Experience | 14 Years .NET & C# Background
 
 ---
 
